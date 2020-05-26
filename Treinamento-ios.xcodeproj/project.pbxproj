@@ -13,6 +13,7 @@
 		433717802478465400C3C26B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4337177F2478465400C3C26B /* Assets.xcassets */; };
 		433717832478465400C3C26B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 433717812478465400C3C26B /* LaunchScreen.storyboard */; };
 		4337178E2478465500C3C26B /* Treinamento_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4337178D2478465500C3C26B /* Treinamento_iosTests.swift */; };
+		433717992478612400C3C26B /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433717982478612400C3C26B /* ContactViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		433717892478465500C3C26B /* Treinamento-iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Treinamento-iosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4337178D2478465500C3C26B /* Treinamento_iosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Treinamento_iosTests.swift; sourceTree = "<group>"; };
 		4337178F2478465500C3C26B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		433717982478612400C3C26B /* ContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				4337177F2478465400C3C26B /* Assets.xcassets */,
 				433717812478465400C3C26B /* LaunchScreen.storyboard */,
 				433717842478465400C3C26B /* Info.plist */,
+				433717982478612400C3C26B /* ContactViewController.swift */,
 			);
 			path = "Treinamento-ios";
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				4337177B2478464000C3C26B /* ViewController.swift in Sources */,
 				433717792478464000C3C26B /* AppDelegate.swift in Sources */,
+				433717992478612400C3C26B /* ContactViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
